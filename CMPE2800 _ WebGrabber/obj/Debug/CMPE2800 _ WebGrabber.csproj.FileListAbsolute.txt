@@ -1,0 +1,10 @@
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\bin\Debug\CMPE2800 _ WebGrabber.exe.config
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\bin\Debug\CMPE2800 _ WebGrabber.exe
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\bin\Debug\CMPE2800 _ WebGrabber.pdb
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\obj\Debug\CMPE2800 _ WebGrabber.csproj.AssemblyReference.cache
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\obj\Debug\CMPE2800___WebGrabber.Form1.resources
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\obj\Debug\CMPE2800___WebGrabber.Properties.Resources.resources
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\obj\Debug\CMPE2800 _ WebGrabber.csproj.GenerateResource.cache
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\obj\Debug\CMPE2800 _ WebGrabber.csproj.CoreCompileInputs.cache
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\obj\Debug\CMPE2800 _ WebGrabber.exe
+C:\CMPE2800\CMPE2800 _ WebGrabber\CMPE2800 _ WebGrabber\obj\Debug\CMPE2800 _ WebGrabber.pdb
